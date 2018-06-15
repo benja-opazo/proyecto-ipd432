@@ -1,5 +1,7 @@
-ImplementaciÛn de algoritmo SHA256 en Nexys 4 DDR utilizando Verilog.
+Implementaci√≥n de algoritmo SHA256 en Nexys 4 DDR utilizando Verilog.
 
 Autores:
-- BenjamÌn Opazo
+- Benjam√≠n Opazo
 - Diego Lazcano
+
+Valpara√≠so - UTFSM - 2018
